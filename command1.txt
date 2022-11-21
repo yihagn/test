@@ -1,4 +1,4 @@
 1、To use git commands;
 2、markdown
-3、sts
+3、stsdemo
 4、java basic
